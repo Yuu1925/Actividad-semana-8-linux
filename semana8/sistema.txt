@@ -1,0 +1,14 @@
+El comando "uname -a" muestra información completa del sistema operativo.
+En este caso respondió:
+Linux codespaces-3b9da7 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 GNU/Linux
+
+Esto indica que el sistema operativo es Linux, basado en Ubuntu, con
+arquitectura x86_64. Es útil porque permite conocer qué versión del
+kernel está instalada y si necesita actualizaciones de seguridad.
+
+El comando "whoami" mostró: codespace
+Esto indica el nombre del usuario que está usando la terminal en ese
+momento. Es importante saberlo en un servidor porque un usuario
+administrador tiene acceso total al sistema, mientras que un usuario
+normal tiene permisos limitados, lo que ayuda a evitar cambios accidentales
+o accesos no autorizados.
